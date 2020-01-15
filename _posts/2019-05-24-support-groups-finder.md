@@ -2,8 +2,6 @@
 title: Support Groups Finder
 ---
 
-# Support Groups Finder
-
 Based on a user's text input, the application recommends online support groups by leveraging a Natural Language Processing text classification algorithm.
 
 See the web application here: <https://nlpsupportgroupsfinder.web.app/>
