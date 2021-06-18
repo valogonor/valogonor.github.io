@@ -11,3 +11,11 @@ Jorrit Schapp, who posted the above chart, highlighted a cultural bias in this c
 
 These charts show how from the same data, you can tell completely different stories and confirm completely different biases.
 As data scientists, it's important that we be aware of what narrative biases we may be reinforcing in how we choose to create our data visualizations. That includes our own biases as well as those of our audience.
+
+<script src="https://utteranc.es/client.js"
+        repo="valogonor/valogonor.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
