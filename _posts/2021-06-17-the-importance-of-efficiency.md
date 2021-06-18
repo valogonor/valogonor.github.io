@@ -16,3 +16,11 @@ I realized I could adapt this solution to my original problem by sorting the lis
 By that point, half an hour had passed, and my brute force code was still running. I stopped it and coded up the more efficient solution. Now it took my code less than four minutes to run the third test case. That’s a huge improvement over the 33 hours that would have been needed for the brute force method! I calculated that test case #5 would be the faster of the two remaining test cases to run, so I ran that one next. For that one there were up to 10<sup>4</sup> signals, 10<sup>4</sup> metabolites, and 10<sup>4</sup> adducts, so the number of operations needed with the updated code was 10<sup>4</sup> x 2 x 10<sup>4</sup> or 200 million in the worst case, the same amount as test case #3. Indeed, that one also ran in less than four minutes. For test case #4, there were 1000 signals, 1 million metabolites, and 1000 adducts; the updated code made 10<sup>3</sup> x 10<sup>6</sup> or one billion operations in the worst case. This one took about twenty minutes to run. It was definitely worth the time I took to search for a more efficient solution as there is no way my program would have finished running for those last two test cases within the duration of the contest otherwise.
 
 I am really glad I discovered this contest. I learned about a whole new field that I am now interested in, and I have further developed my knowledge of the ways in which I can make my code more efficient.
+
+<script src="https://utteranc.es/client.js"
+        repo="valogonor/valogonor.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
