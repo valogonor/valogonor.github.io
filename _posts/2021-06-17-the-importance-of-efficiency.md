@@ -1,5 +1,5 @@
-# The Importance of Efficiency:
-## My Experience with Problem 2 of the Bioinformatics Contest 2021
+# The Importance of Efficiency
+### My Experience with Problem 2 of the Bioinformatics Contest 2021
 
 I really enjoyed working on the second problem of the qualification round of the [2021 Bioinformatics Contest](https://bioinf.me/en/contest) hosted on the Stepik platform. Not only did it help me learn about a real-life application of bioinformatics, but it also reinforced the importance of efficient code. Even though there was no official time limit on the amount of time for my solution to run, I ended up optimizing my code anyway because the data input was so large in some of the test cases that had not done so, my code would have taken days if not weeks to run. I experienced first-hand the importance of efficiency in a real-world application with real-world time constraints rather than the seemingly arbitrary time constraints of most competitive programming contests.
 
