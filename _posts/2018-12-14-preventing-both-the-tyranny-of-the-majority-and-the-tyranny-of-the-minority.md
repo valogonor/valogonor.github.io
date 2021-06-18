@@ -14,3 +14,11 @@ This situation has real consequences for our democracy. One of those being that 
 ![image](https://user-images.githubusercontent.com/43195349/122490682-8b1c1800-cfb0-11eb-83d5-4376f85ef32e.png)
   
 To guard against both the tyranny of the majority and the tyranny of the minority, I propose we create US senate districts proportioned by population. It will guard against the tyranny of the minority because everyone’s vote will count equally whether the voter lives in an urban area or a rural one. It will guard against the tyranny of the majority because we will still keep the Electoral College. We will still have the winner-take-all system of allocating electoral votes — this time for each senate district. As a result, a candidate for President will still have to gain support across multiple regions of the US in order to win the presidency. In this way, we can balance the rights of both the majority and the minority.
+
+<script src="https://utteranc.es/client.js"
+        repo="valogonor/valogonor.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
