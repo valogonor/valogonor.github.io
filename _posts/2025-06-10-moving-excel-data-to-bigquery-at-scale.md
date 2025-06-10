@@ -2,8 +2,6 @@
 title: Moving Excel Data to BigQuery at Scale
 ---
 
-## Introduction
-
 Excel files are still everywhere—in finance departments, HR teams, academic research, and nonprofits. But turning that data into something useful for analysis often means tedious, manual work: cleaning, transforming, and importing it into analytical tools. I wanted to solve this problem more elegantly.
 
 In this project, I built an automated ETL (Extract, Transform, Load) pipeline using Python and Google Cloud. The workflow uploads Excel files to Google Cloud Storage (GCS), processes and cleans the data using a Cloud Run function with pandas, and loads the final dataset into Google BigQuery for analysis. This post walks through how I designed and built it—and what I learned along the way.
