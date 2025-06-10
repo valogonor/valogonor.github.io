@@ -2,8 +2,6 @@
 title: Moving Excel Data to BigQuery at Scale
 ---
 
-# An End-to-End ETL Project
-
 ## Introduction
 
 Excel files are still everywhere—in finance departments, HR teams, academic research, and nonprofits. But turning that data into something useful for analysis often means tedious, manual work: cleaning, transforming, and importing it into analytical tools. I wanted to solve this problem more elegantly.
