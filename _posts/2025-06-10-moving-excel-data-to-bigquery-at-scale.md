@@ -1,6 +1,8 @@
 ---
-title: Moving Excel Data to BigQuery at Scale: An End-to-End ETL Project
+title: Moving Excel Data to BigQuery at Scale
 ---
+
+# An End-to-End ETL Project
 
 ## Introduction
 
